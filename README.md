@@ -23,7 +23,7 @@ Validate that you know best practices of building scalable, hybrid cloud applica
 - ✅ Check out blog version of Workshop Coming Soon!
 
 
-## Request Access to Red Hat OpenShift Workshop Cluster
+##  Get Access to Red Hat OpenShift Workshop Cluster
 
 Use the steps below to get access to a Red Hat OpenShift cluster. 
 
@@ -56,12 +56,12 @@ Thanks in Advance!
 
 ### Watch Replays of Sessions
 
-- October 7, 2021 - [Watch Here!](https://www.crowdcast.io/e/deploy-a-python-app-os-1)
+- October 7, 2021 - [Register Here!](https://www.crowdcast.io/e/deploy-a-python-app-os-1)
 
 
 ## Bonus Learning
 
-Level Up your Skills: Get Your “Build on Kubernetes” Badge [Crowdcast](https://www.crowdcast.io/e/level-up-your-skills-get-4)
+Level Up your Skills: Get Your “Build on Kubernetes” Badge [Webinar on Crowdcast](https://www.crowdcast.io/e/level-up-your-skills-get-4)
 
 IBM Open Labs (Red Hat OpenShift on IBM Cloud) [Website](https://developer.ibm.com/openlabs/openshift)
 
