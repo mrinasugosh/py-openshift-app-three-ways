@@ -38,10 +38,10 @@ Use the steps below to get access to a Red Hat OpenShift cluster.
 
 3) You will be asked to sign in with your IBM account. Sign up for a IBM Cloud Account if you don't already have one. Then sign in to your temporary RHOS cluster
 
-4) Enjoy! 😎
+4) Enjoy!
 
 
-## 😁Please Take Survey After Workshop😁
+## Please Take Survey After Workshop
 
 This helps me to know how I can improve and make future workshops and webinars EVEN better!
 
