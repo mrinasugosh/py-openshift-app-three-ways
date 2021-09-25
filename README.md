@@ -8,7 +8,7 @@ Validate that you know best practices of building scalable, hybrid cloud applica
 ### Workshop Covers:
 
 - [Deploy an application using a Docker image in a external registry (ie Dockerhub)](https://github.com/mrinasugosh/py-openshift-app-three-ways/blob/main/PyLab1.md)
-- [Deploy an application using a GitHub repo and a Dockerfile]()
+- [Deploy an application using a GitHub repo and a Dockerfile](https://github.com/mrinasugosh/py-openshift-app-three-ways/blob/main/PyLab2.md)
 - [Deploy the application using a GitHub repo with OpenShift S2I]()
 
 
