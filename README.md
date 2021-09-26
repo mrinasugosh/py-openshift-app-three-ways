@@ -9,7 +9,7 @@ Validate that you know best practices of building scalable, hybrid cloud applica
 
 - [Deploy an application using a Docker image in a external registry (ie Dockerhub)](https://github.com/mrinasugosh/py-openshift-app-three-ways/blob/main/PyLab1.md)
 - [Deploy an application using a GitHub repo and a Dockerfile](https://github.com/mrinasugosh/py-openshift-app-three-ways/blob/main/PyLab2.md)
-- [Deploy the application using a GitHub repo with OpenShift S2I]()
+- [Deploy the application using a GitHub repo with OpenShift CLI](https://github.com/mrinasugosh/py-openshift-app-three-ways/blob/main/PyLab3.md)
 
 
 ## Workshop Pre-requsties
@@ -54,7 +54,7 @@ Thanks in Advance!
 
 - Workshop Slides: [View Here!](https://docs.google.com/presentation/d/1Y8nZmZH2Ex9QQ5fLF_-Xb5N8blC5jBJUU8xuXK0r5v0/edit?usp=sharing)
 
-### Watch Replays of Sessions
+### Register for our upcoming virtual workshop!
 
 - October 7, 2021 - [Register Here!](https://www.crowdcast.io/e/deploy-a-python-app-os-1)
 
