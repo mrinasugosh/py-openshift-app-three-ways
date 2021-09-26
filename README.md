@@ -4,9 +4,12 @@ This workshop will try to demystify Openshift and teach python application devel
 
 Validate that you know best practices of building scalable, hybrid cloud applications on Openshift!
 
+## Register for our upcoming virtual workshop!
+
+- October 7, 2021 - [Register Here!](https://www.crowdcast.io/e/deploy-a-python-app-os-1)
 
 ### Workshop Covers:
-
+- Workshop Slides: [View Here!](https://docs.google.com/presentation/d/1Y8nZmZH2Ex9QQ5fLF_-Xb5N8blC5jBJUU8xuXK0r5v0/edit?usp=sharing)
 - [Deploy an application using a Docker image in a external registry (ie Dockerhub)](https://github.com/mrinasugosh/py-openshift-app-three-ways/blob/main/PyLab1.md)
 - [Deploy an application using a GitHub repo and a Dockerfile](https://github.com/mrinasugosh/py-openshift-app-three-ways/blob/main/PyLab2.md)
 - [Deploy the application using a GitHub repo with OpenShift CLI](https://github.com/mrinasugosh/py-openshift-app-three-ways/blob/main/PyLab3.md)
@@ -48,15 +51,6 @@ This helps me to know how I can improve and make future workshops and webinars E
 Thanks in Advance!
 
 [Short Post-Workshop Survey](https://ibm.biz/BdfpnA)
-
-
-### Resources in Repo
-
-- Workshop Slides: [View Here!](https://docs.google.com/presentation/d/1Y8nZmZH2Ex9QQ5fLF_-Xb5N8blC5jBJUU8xuXK0r5v0/edit?usp=sharing)
-
-### Register for our upcoming virtual workshop!
-
-- October 7, 2021 - [Register Here!](https://www.crowdcast.io/e/deploy-a-python-app-os-1)
 
 
 ## Bonus Learning
