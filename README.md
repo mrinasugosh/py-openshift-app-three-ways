@@ -17,7 +17,7 @@ Validate that you know best practices of building scalable, hybrid cloud applica
 
 ## Workshop Pre-requsties
 
-- ✅ Sign-up for FREE IBM Cloud Account:  [IBM Cloud Signup](https://ibm.biz/Bdfgm2)
+- ✅ Sign-up for FREE IBM Cloud Account:  [IBM Cloud Signup](https://ibm.biz/BdfhMe)
 - ✅ Access to Red Hat Open Shift Clusters:  **See Steps Below**
 - ✅ Sample Python App for Workshop: [View Here](https://github.com/mrinasugosh/sample-python-app)
 - ✅ MAX Object detector App for Workshop: [View Here](https://github.com/mrinasugosh/sample-python-app)
